@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: quick
 cuisine: [Tacos, Mexican]
 deliverytime: 15 mins
+deliveryfee: $2.99
 image: /images/pietros-corner@2x.jpg
 name: Pietro's Corner
 pricerange: $$

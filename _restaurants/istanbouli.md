@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: quick
 cuisine: [Middle Eastern, Lebanese]
 deliverytime: 25 mins
+deliveryfee: $2.99
 image: /images/istanbouli@2x.jpg
 name: Istanbouli Shawarma House
 pricerange: $$

@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: quick
 cuisine: [Cupcakes, Desserts]
 deliverytime: 15 mins
+deliveryfee: $3
 image: /images/cupcake-lounge@2x.jpg
 name: The Cupcake Lounge
 pricerange: $$

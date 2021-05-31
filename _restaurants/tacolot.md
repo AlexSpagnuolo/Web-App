@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: favourites
 cuisine: [Tacos, Mexican]
 deliverytime: 35 mins
+deliveryfee: $2.99
 image: /images/tacolot@2x.jpg
 name: Tacolot
 pricerange: $$

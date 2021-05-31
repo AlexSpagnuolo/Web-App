@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: favourites
 cuisine: [Pizza, Comfort Food, Wings]
 deliverytime: 35 mins
+deliveryfee: $2.99
 image: /images/milano@2x.jpg
 name: Milano Pizza
 pricerange: $

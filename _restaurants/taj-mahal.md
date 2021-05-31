@@ -5,6 +5,7 @@ bio: Taj Mahal Cuisine offers traditional Indian cuisine. Established in 1997,
 category: quick
 cuisine: [Indian, Halal, Vegan Options]
 deliverytime: 25 mins
+deliveryfee: $2.99
 image: /images/taj-mahal@2x.jpg
 name: Taj Mahal Cuisine
 pricerange: $$

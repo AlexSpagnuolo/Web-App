@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: favourites
 cuisine: [Burgers, Italian]
 deliverytime: 40 mins
+deliveryfee: $2.99
 image: /images/two-six-ate@2x.jpg
 name: Two Six Ate
 pricerange: $$$

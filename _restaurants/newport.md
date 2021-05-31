@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: favourites
 cuisine: [Sandwiches, Salad, American]
 deliverytime: 30 mins
+deliveryfee: $2.99
 image: /images/newport@2x.jpg
 name: Newport Restaurant
 pricerange: $$

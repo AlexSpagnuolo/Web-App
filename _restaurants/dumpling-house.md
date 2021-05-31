@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: favourites
 cuisine: [Chinese, Asian Fusion]
 deliverytime: 25 mins
+deliveryfee: $2.99
 image: /images/dumpling-house@2x.jpg
 name: Dumpling House
 pricerange: $$

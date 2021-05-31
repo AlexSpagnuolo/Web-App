@@ -5,6 +5,7 @@ bio: Familiar dishes with inspiring new flavours. Made with fresh ingredients ev
 category: quick
 cuisine: [Burgers, Italian]
 deliverytime: 20 mins
+deliveryfee: $2.99
 image: /images/pho-van-van@2x.jpg
 name: Pho Van Van
 pricerange: $$$
